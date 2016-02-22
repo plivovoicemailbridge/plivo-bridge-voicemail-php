@@ -1,8 +1,8 @@
-# plivo-php-bridge-voicemail
+# plivo-bridge-voicemail-php
 
-A PHP call bridge and voicemail application using the Plivo API.
+A call bridge and voicemail application using the Plivo API. Written in PHP.
 
-This app was written awhile ago so it may need some updating to work.
+This app was created awhile ago so it may need some updating to work.
 
 ## Installation
 
